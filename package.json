@@ -1,6 +1,6 @@
 { 
   "name" : "nativescript-meteor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main" : "index.js",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "nativescript-websockets": "git+https://github.com/lyonzy/nativescript-websockets.git",
+    "nativescript-websockets": "git+https://github.com/NathanaelA/nativescript-websockets.git",
     "ddp-underscore-patched": "0.8.1-2",
     "ddp-ejson": "git+https://github.com/blagoev/ddp-ejson"
   }
