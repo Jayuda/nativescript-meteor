@@ -1,4 +1,5 @@
-#A NativeScript plugin for Meteor DDP Client Applications
+# Nativescript-Meteor
+Plugin to connect via DDP Meteor with NativeScript
 
 ### How to Install On Nativescript Project
 ```js
