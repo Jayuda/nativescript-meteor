@@ -3,6 +3,7 @@ var WebSocket = require("nativescript-websockets");
 var EJSON = require("ddp-ejson");
 var pathJoin = require('./path').join;
 var _ = require("ddp-underscore-patched");
+var login = require('ddp-login');
 
 var WebSocketClient = function (url, protocols, options) {
   return new WebSocket(url, { protocols: protocols, timeout: 6000, allowCellular: true });
